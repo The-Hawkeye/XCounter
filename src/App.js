@@ -19,7 +19,7 @@ function App() {
   return (
     <>
     <h1>Counter App</h1>
-    <h3>Count:{counter}</h3>
+    <h3>Count: {counter}</h3>
 
     <button onClick={handleIncrease}>
         Increment
